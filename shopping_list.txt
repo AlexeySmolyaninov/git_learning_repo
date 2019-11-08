@@ -9,3 +9,4 @@ Shopping List:
 8.Chicken brest
 9.Onion
 10.Potatoes (10)
+11.Salami
